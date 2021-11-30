@@ -1,0 +1,635 @@
+#+TITLE: The Ubitarian Manifesto
+#+AUTHOR: Thien-Nam Dinh
+#+DATE: November 30, 2021
+#+OPTIONS: toc:nil title:nil
+#+LATEX_CLASS: custom
+#+LATEX_HEADER: \email{thiennam.tnd@gmail.com}
+
+#+BEGIN_abstract
+I have no special motives or qualifications to write manifestos.
+For some reason, I wrote this one.
+Some of its ideas may be original.
+Most are not.
+The forming of ideas is a mundane and tedious chore.
+The exchange of ideas is the most beautiful process in the universe.
+#+END_abstract
+
+#+LATEX: \maketitle
+#+LATEX: \tableofcontents
+
+* Introduction
+:PROPERTIES:
+:CUSTOM_ID: introduction
+:END:
+
+The situation is suboptimal.
+Across the civic landscape, tension continues to build over the growth of inequity, the erosion of freedom, and the failure of politics to improve the situation.
+For many, the natural instinct is to blame people, to condemn those who oppress, who help to oppress, who stand by and do nothing.
+That instinct is wrong.
+People are not the problem.
+When living in healthy environments, when connected to healthy communities, most human beings are remarkably kind, productive, and resilient[fn:humankind].
+People are imperfect, but they are not the problem.
+
+The problem is our systems.
+Our brains evolved to understand tribal communities.
+Our nation evolved to manage 13 loosely affiliated colonies.
+These are the systems that we ask to tame the relentless forces of economics, globalization, and technological revolutions.
+Over the course of its impossible 246-year mission, the US state has evolved as all states do: haphazardly.
+Election by election, policy by policy, good intention by good intention, the state has decayed into an incomprehensible sprawl of complexity with no end in sight.
+
+We need to do better.
+We need to work toward new systems that will uphold the values of our society---life, liberty, and the pursuit of happiness---at the scale and ubiquity needed to prevail against its new systemic challenges. 
+In place of today's broken patchwork bureaucracy, we need to implement an efficient, robust machine that will free people to live the rich and remarkable lives that we are all capable of living.
+This manifesto describes such a machine.
+
+** Outline
+/The Ubitarian Manifesto/ is concise overview of Ubitarian ideology. 
+It does not attempt to justify most of the ideas, only present them as clearly as possible.
+Section\nbsp[[#principles]] establishes the theoretical principles of the platform.
+The platform itself, described in Sections\nbsp[[#ubi]]-[[#uif]], consists of four core policies: /Universal Basic Income/, /Universal Basic Philanthropy/, /Universal Capital Tax/, and /Universal Information Freedom/.
+Section\nbsp[[#other-policies]] enumerates additional supplementary policies.
+Section\nbsp[[#discussion]] concludes with contextual discussion.
+
+Ubitarianism emphasizes /idealistic/ dialog.
+Due to the complexity of the modern world, it has become difficult for the public to agree on the basic facts of any sufficiently complex situation.
+What passes as scientific knowledge today is more often blind trust the flawed systems that broker the information[fn:replicability].
+Consequently, this manifesto primarily uses first principles communicate ideas for a better society.
+Once we have some agreement about how things /should/ be, then---and only then---we can begin to work toward it.
+
+* Principles 
+:PROPERTIES:
+:CUSTOM_ID: principles
+:END:
+
+Ubitarianism is a political ideology that advocates for the creation of simple but powerful systems to maximize individual freedom.
+A Ubitarian state should actively create opportunities for its people without compromising their freedom to act on them[fn:development-as-freedom].
+This section introduces the two distinguishing core principles that drive the platform.
+
+** Self-Determination
+:PROPERTIES:
+:CUSTOM_ID: self-determination
+:END:
+
+Self-determination is the principle of prioritizing the individual's innate tendencies to grow and contribute to society through intrinsic motivators.
+Its opposite is authoritarianism, which prioritizes top-down incentives to achieve some notion of collective utilitarian outcomes through extrinsic motivators.
+The principle of self-determination drives Ubitarian /theory/.
+
+Ubitarianism rejects the traditional capitalistic and authoritarian claims that humans need heavy-handed external motivators (i.e. a sufficiently large carrot or stick) to be productive.
+Instead, it assumes as a basic psychological fact that human beings are naturally creative and productive when they are in healthy environments.
+This belief drives much of the rationale behind Ubitarian policies[fn:self-determination].
+Rather than trying to /make/ people be productive, Ubitarian policies focus on creating the basic conditions needed to /let/ them be productive.
+
+In the context of society as a whole, Ubitarianism believes that emphasizing individualism will produce better social outcomes---even for the collective.
+It is skeptical of socialist systems that depend on centralized public decision-making as these systems are inevitably vulnerable to corruption and abuse by rationally malicious individuals.
+Instead, Ubitarianism prefers alternatives which directly empower individuals to be self-interested.
+In politics and economics, Ubitarianism advocates for democratic and free market mechanisms, respectively[fn:man-economy-state].
+
+** Minimalism
+:PROPERTIES:
+:CUSTOM_ID: simplicity
+:END:
+
+Minimalism is the principle of taking a few simple and obvious political actions to solve /only/ the most clearly understood social issues.
+Its opposite is incremental interventionalism, which takes many reactionary political actions to address any social issues that emerge.
+The principle of minimalism drives Ubitarian /practice/.
+
+Ubitarianism advocates for a minimal state with respect to the quantity and complexity of its legislation. 
+In the same way that household clutter leads to pests, dust, and more clutter, complex legislation leads to corruption, unintended consequences, and the need for more complex legislation.
+This dynamic is the reason behind today's increasingly bloated and inefficient government.
+For this reason, Ubitarian minimalism prefers /simple but powerful/ systems that maximizes impact while minimizing complexity. 
+
+A consequence of the minimalist principle is that Ubitarian only supports interventions that directly address well-understood root causes.
+Most interventionalism policies today are poorly constructed half-measures deployed to solve surface-level, symptomatic issues.
+Often, they win public support because they deliberately obscure their true economic costs to society.
+Ubitarian minimalism calls for a conscientious effort to reject all but the most direct government interventions.
+For example, it opposes seemingly well-intentioned policies like minimum wages, corporate taxes, and green energy subsidies, since they fail to solve actual underlying problems like the broken labor market, wealth inequality, and environmental externalities.
+Over time, these half-measures will cause more harm than good.
+The remainder of this document outlines better alternatives to solve these issues in accordance with Ubitarian minimalism.
+
+* Universal Basic Income
+:PROPERTIES:
+:CUSTOM_ID: ubi
+:END:
+
+/Universal Basic Income/ (UBI) is a uniform, unconditional cash income provided for all adult citizens that is large enough for them to sustain a healthy, dignified life in the absence of any other private income.
+Through this direct, unrestricted income provided by the government, everyone has the means to survive in society regardless of how economically productive they can---or even want---to be.
+The amount of the UBI payment is the same for all adult citizens regardless of there they live, how much they make, or any other demographic factor.
+
+/The purpose of UBI is to correct fundamental distortions in the labor market and guarantee the basic right to dignified working and living conditions for everyone in society./
+
+** Rationale
+The core rationale of UBI is as follows:
+
+- /Premise/: A prosperous state has an obligation to provide minimum welfare for its citizens.
+- /Premise/: A free state has an obligation to maximize the freedom of choice of its citizens.
+- /Conclusion/: The state should implement UBI, which is the single form of welfare that provides the most freedom of choice for its recipients.
+
+Although this is the primary motivation, it is not the only one.
+The remainder of this section outlines benefits of UBI in specific topics.
+
+*** Welfare Systems
+UBI obviates the need for the state to run most of its welfare programs.
+Since UBI covers the minimum living expenses for most individuals, the state can dissolve most existing programs for housing, food, and healthcare.
+For individuals who face extenuating circumstances like disability or drug addiction, the state can fund smaller, targeted programs to provide additional assistance through UBP.
+
+UBI provides the following benefits:
+- /Efficiency/: Unrestricted cash payouts require less logistical overhead for the state than targeted housing assistance, food stamps, and medical insurance.
+- /Transparency/: Unrestricted cash payouts leave less room for centralized management, which in turn leaves less room for corrupt or negligent behavior by state officials.
+- /Flexibility/: Individuals have a more nuanced understanding of their own needs than the state. An unrestricted cash payout has more value to individuals than an equivalent amount of restricted state services.
+- /Incentivization/: UBI eliminates the perverse economic incentives of the current welfare state, which creates poverty traps that encourage the poor to stay poor[fn:the-alternative].
+- /Solidarity/: UBI reduces the social stigma that exist in the current system. Since the state provides UBI to all citizens, it does not create a class division.
+
+*** Labor Markets
+UBI fixes a major problem with the modern labor market, which is not a free market in the traditional sense.
+In today's labor market, many people---if not most people---are currently working in jobs that they do not want to work in.
+This is clear sign of a market failure.
+In a truly free market, participants must have a reasonable option to /not/ participate; that is, they should not be forced to take part in a transaction if they do not want to.
+In the modern labor market, /must/ participate because pawning off their labor is the only way to meet their basic biological need for food, shelter, and healthcare.
+This biological need is a market distortion that UBI corrects.
+
+UBI provides the following benefits:
+
+- /Compensation/: Correcting the labor market distortion allows the pricing mechanism (i.e. wages) to more naturally incorporate the preferences of the worker. Employers would need to pay higher salaries for undesirable jobs and somewhat less for desirable jobs. This development obviates the need for existing policies like minimum wages and progressive taxes that imperfectly attempt to correct the current state of income inequality.
+- /Working Conditions/: UBI improves working conditions since it increases competition for workers among employers. This development obviates the need for labor unions and work-place regulations.
+- /Initiative/: UBI provides a safety net for workers to take on personal risk that might pay off in the future. For instance, workers could quit their jobs to go back to school or form new companies. By supporting these individual initiatives, UBI creates a more skilled labor force and a more robust economy.
+
+*** Nonmonetary Value
+The Ubitarian self-determination principle rejects the classical capitalistic assumption that humans /need/ financial incentives to be productive.
+Instead, it assumes that, if the state provides most of their basic needs through UBI, they will naturally /want/ to find to contribute to their social network.
+This type of productivity does not contribute to simplistic economic indicators like GDP.
+
+UBI provides the following benefits:
+
+- /Creativity/: Amateur artists can spend more time producing artwork that others can enjoy without paying for it.
+- /Social Connections/: People can spend more time with their families and friends, building more enriching and robust social networks.
+- /Health/: People can spend more time taking care of their physical and mental healthy. In addition to improve their own lives, this development reduces the strain on both the healthcare industry as well as on their own social networks.
+- /Civic Engagement/: People can spend more time staying informed and active in their civic lives.
+
+** Scale
+This section quantifies the potential impact of UBI for the US.
+The calculation for UBI straightforward: take the number of recipients and multiple it by the payout. 
+The [[https://www.census.gov/library/stories/2021/08/united-states-adult-population-grew-faster-than-nations-total-population-from-2010-to-2020.html][2020 US census]] states that the population of adults i 258.3 million.
+For the payout amount, we will use the round number of $1000 per month used by presidential candidate Andrew Yang in his 2020 presidential [[https://2020.yang2020.com/][platform]].
+These numbers imply a benefit of $3.1 trillion per year distributed evenly among all citizens.
+
+This analysis may overstate the scale of UBI for the following reasons:
+
+- UBI inflates the price of consumer goods, so $1000 per person may not be enough to cover expenses
+- Adults with dependent children will need more support, which UBI may need to account for.
+
+Conversely, this analysis may understate the scale of UBI for the following reasons:
+
+- UBI obviates the spending currently allocated to expensive welfare programs.
+- UBI increases consumer spending, which creates economic growth.
+
+* Universal Basic Philanthropy
+:PROPERTIES:
+:CUSTOM_ID: ubp
+:END:
+
+/Universal Basic Philanthropy/ (UBP) is a uniform stipend provided for all citizens that they can use to fund any state-approved program to provide public goods.
+Whereas UBI provide the means for individuals to meet their private needs, UBP provides the means for individuals to determine how the community should meet its collective needs.
+For a program to qualify, it needs to satisfy the following criteria:
+
+- It must provide nonexclusive and unreciprocated value to anyone in society.
+- It must /not/ be opposed by more than 50% of the population in societ.
+
+Programs that qualify include most nonprofits, most government agencies, most art organizations, and most political parties.
+Programs that do not qualify include private for-profit businesses, organizations with closed membership, and hate groups.
+
+/The purpose of UBP is to effectively and equitably determine funding for public goods that benefit everyone in society./
+
+** Rationale
+The core rationale of UBP is as follows:
+
+- /Premise/: People have a natural desire to engage in philanthropy, public service, and politics. 
+- /Premise/: At large scales, well-maintained free market systems are more efficient and robust than centralized, bureaucratic institutions.
+- /Conclusion/: UBP, which is a free market for philanthropy, public service, and politics, will be more efficient and robust than the centralized institutions that currently meet these needs.
+
+*** Philanthropy
+:PROPERTIES:
+:CUSTOM_ID: philanthropy
+:END:
+
+UBP displaces traditional philanthropy by allowing more people to participate in charitable giving.
+Although major philanthropists would continue to inject private funding, UBP would drive most charitable spending.
+
+UBI provides the following benefits:
+
+- /Equity/: UBP allows all citizens to participate in philanthropic giving, an activity that is intrinsically rooted in privilege and affluence in the current system. It obviates the need for a charitable tax deduction, a mechanism that currently amplifies the equities in philanthropy[fn:decolonizing-wealth].
+- /Deliberation/: Today, many people will only donate their hard-earned money when they are emotionally perturbed, for instance, because they are attending a social gala or because they see an emotionally moving advertisement. In contrast, since UBP is a state-provided stipend that can /only/ be used for donations, people can be more deliberate about what causes they want to support.
+- /Outreach/: UBP encourages nonprofits to shift outreach and education efforts toward the general public and away from the major donors and centralized institutions that fund them today.
+
+*** Governance
+:PROPERTIES:
+:CUSTOM_ID: governance
+:END:
+
+UBP displaces bureaucracy by shifting many state-run programs to private nonprofits.
+Although the government should maintain some direct bureaucratic spending, UBP can provide funding for most public programs like medicaid, housing, SNAP benefits and funding for parks, libraries, law enforcement, and infrastructure.
+
+UBI provides all of the benefits mentioned in Section\nbsp[[#philanthropy]] for governance as well as the following additional benefits:
+
+- /Efficiency/: A decentralized UBP platform replaces the need for inefficient and hierarchical bureaucratic decision-making.
+- /Selection/: New nonprofits form more easily than new government agencies, which means that individuals have a wider selection of organizations to support with public dollars. 
+- /Diversity/: In principle, modern nonprofits can be more supportive of innovation, minority populations, and controversial issues than government agencies. This is because the state derives is power from a majority of its constituents while a nonprofit derives its power from an arbitrarily small number of donors, creating more room for minority voices.
+- /Democracy/: UBP promises to be a more direct way to exercise democratic power than existing representative democracy models. Instead of depending entirely on elected officials, UBP allows citizens to exercise their power personally, directly, and immediately.
+
+*** Activism
+:PROPERTIES:
+:CUSTOM_ID: Activism
+:END:
+
+UBP displaces public spending on political activism such as public campaign financing.
+Using their stipend, people can fund political campaigns and activist lobbying for causes like abortion or firearms.
+Despite the inherent controversy of activism, Ubitarianism does not distinguish it from more agreeable causes like education or food security.
+As long as the nonprofit passes the 50% non-opposition test, UBP considers all of these causes to be equally motivated by altruistic intentions.
+
+UBI provides all of the benefits mentioned in Section\nbsp[[#philanthropy]] and Section\nbsp[[#governance]] for activism as well as the following additional benefits:
+- /Accountability/: UBP makes politicians more relatively accountable to everyday citizens rather than wealthy donors since everyone would have the ability to contribute more substantially to their campaigns.
+- /Unity/: By operating politics and activism under an altruistic rather than self-serving economic model, UBP fosters a greater feeling of social unity even among disagreeing constituents.
+
+** Scale
+This section quantifies the potential impact of UBP for the US.
+The total impact of UBP is proportional to the existing government spending on welfare programs shown in Table\nbsp[[tab:spending]].
+According to the [[https://www.census.gov/library/stories/2021/08/united-states-adult-population-grew-faster-than-nations-total-population-from-2010-to-2020.html][2020 US census]], the total population of the US is 331 million.
+Dividing the first number by the second implies a UBP payout of $11,000 per person per year to maintain current spending on these public services.
+However, not everyone will allocate their UBP stipend.
+Assuming that only 50% of /adult/ citizens spend their UBP, which is inline with [[https://www.fairvote.org/voter_turnout#voter_turnout_101][voter turnout]], then the adjusted UBP payout is $29,000 per person per year.
+
+#+name: tab:spending
+#+CAPTION: *Breakdown of Public Spending.* Sources are documented as embedded links in each row of the first column. Spending amounts are shown as billion USD annually.
+|-------------------------------+------+----------|
+|                               | Year | Spending |
+|-------------------------------+------+----------|
+| [[https://www.usgovernmentspending.com/welfare_spending][Welfare]]                       | 2021 |    2,319 |
+| [[https://educationdata.org/public-education-spending-statistics][Public Education]]              | 2020 |      734 |
+| [[https://ncses.nsf.gov/pubs/nsf21324][Public Research & Development]] | 2019 |      171 |
+| [[https://www.americansforthearts.org/sites/default/files/aep5/PDF_Files/NationalFindings_StatisticalReport.pdf][Nonprofit Arts]]                | 2017 |      166 |
+| [[https://usafacts.org/articles/police-departments-explained/][Law Enforcement]]               | 2017 |      193 |
+| [[https://usafacts.org/state-of-the-union/transportation-infrastructure/][Infrastructure]]                | 2018 |      169 |
+|-------------------------------+------+----------|
+| Total                         |      |    3,752 |
+|-------------------------------+------+----------|
+#+TBLFM: @>$3=vsum(@2..@-1)
+
+This analysis may overstate the scale of UBP for the following reasons:
+
+- If UBI were also implemented, then it would obviate much of the welfare budget listed in Table\nbsp[[tab:spending]], meaning that the UBP payout would not need to be as high.
+- Even with UBP, the state will likely want to retain some centrally allocated funding for certain programs.
+
+Conversely, this analysis may understate the scale of UBP for the following reasons:
+
+- Table\nbsp[[tab:spending]] is far from comprehensive and does not cover many other viable uses of UBP such as spending on parks, libraries, religion, political campaigning, nonprofit lobbying, and many others.
+- If UFI were implemented, UBP becomes an important source of funding for creative arts and research & development. The state should increase the UBP payout accordingly.
+
+* Universal Capital Tax
+:PROPERTIES:
+:CUSTOM_ID: uct
+:END:
+
+/Universal Capital Tax/ (UCT) is a tax on all capital owned within the state's jurisdiction that is proportional to the financial value of each asset.
+Examples of capital assets are the following:
+
+- Equity in public companies
+- Equity in private companies
+- Bonds and other forms of debt
+- Private real estate
+- Cash currency
+- Cryptocurrency
+- Commodities (e.g. gold or oil)
+- Nonfungible goods (e.g. artwork)
+
+Unlike most existing forms of taxes, UCT taxes capital rather than individuals.
+In other words, it does not distinguish between whether the taxpayer is a citizen or not, how much they make, where they live, or any other factor.
+It indiscriminately levies a tax against /whomever/ owns an asset that belongs in the state's jurisdiction.
+If the owner of an asset fails to pay the tax, then they forfeit their right to legally own the asset, which leaves it in possession of the state.
+
+/The purpose of UBP is to rationally and equitably generate funding for public goods that benefit everyone in society./
+
+** Rationale
+The core rationale of UCT is as follows:
+
+- /Premise/: Flat income taxes are unfair because it punishes people in poverty. Progressive income taxes are unfair because it punishes valuable labor. 
+- /Premise/: Strong public institutions exist to build and maintain private capital. In turn, these institutions cost the public money to build and maintain. 
+- /Conclusion/: The most fair tax policy is to tax capital instead of individuals.
+
+Although this is the primary motivation, it is not the only one.
+The remainder of this section outlines benefits of UCT in specific topics.
+
+*** Tax Collection
+Today, the state levies taxes on /transactions/, for instance, when a person receives a paycheck (income tax), when they make a purchase (sales tax), or when they sell a financial asset for a profit (capital gains tax).
+In other words, the state taxes wealth "on the move," i.e. whenever wealth changes hands.
+In contrast, UCT taxes wealth "at rest," i.e. taxing any asset that exists within the jurisdiction on a regular interval (e.g. every year on April 15).
+
+UCT provides the following benefits:
+
+- /Incentivization/: Unlike transactional taxes, UCT does not penalize economic activity. Today, high income taxes adversely disincentivize labor, sales taxes disincentivize consumption, and capital gains taxes disincentivize trade.
+- /Transparency/: Since the identify of the taxpayer doesn't matter, UCT eliminates any incentive for them to set up convoluted off-shore tax havens.
+- /Information/: In the same way that transactional taxes attract a massive industry around accounting and auditing, UCT will attract an industry around how to correctly price assets for tax purposes. Although this information requires some overhead to maintain, the output would arguably provide more useful economic information than the current system.
+
+*** Wealth Redistribution
+UCT obviates other mechanisms wealth redistribution such as progressive income, inheritance taxes, and corporate taxes.
+Many left-leaning views promote taxing the rich as a moral obligation of the state.
+Although Ubitarianism does not share these normative moral views, UCT does happen to lead to far more equitable outcomes as a simple matter of mathematical fairness.
+
+UCT can provide the following benefits:
+
+- /Scale/: As shown in Section\nbsp[[#utc-scale]], UCT redistributes wealth at a far more aggressive scale than progressive income taxes.
+- /Legitimacy/: UCT applies exactly the same way to all individuals without making any normative judgments about income or wealth accumulation. As a result, it may be less divisive and difficult to oppose with rational arguments.
+- /Objectivity/: The major philosophical issue with morally normative wealth redistribution is that society must answer the following question: how equal is equal enough? UCT sidesteps that question entirely because it does not depend on normative morals.
+- /Stability/: UCT actively works to redistributed accumulated wealth, creating an inherently stable wealth distribution pattern over time. In contrast, progressive income, inheritance, and corporate taxes only address inequitable activity in the moment; they do not correct for accumulated wealth over time.
+
+** Scale
+:PROPERTIES:
+:CUSTOM_ID: utc-scale
+:END:
+
+This section quantifies the potential impact of UCT for the US.
+At the end of 2020, the [[https://www.federalreserve.gov/releases/z1/dataviz/dfa/distribute/table][estimated wealth]] of US households was $123 trillion.
+In order to match the 2020 federal [[https://www.cbo.gov/publication/57170][budget]] revenue of $3.4 trillion, the state would need to tax assets at 2.8% of their value under UCT.
+In this analysis, we deliberately keep the total revenue constant.
+
+#+name: tab:distribution
+#+CAPTION: *Traditional Tax vs UCT for Households.* Income and wealth sources data is documented as embedded links in the column headers. Current tax amounts (Current*) are estimated by combining an online [[https://www.nerdwallet.com/taxes/tax-calculator][tax calculator]] (single filing, no deductions) and the official federal revenue [[https://www.cbo.gov/publication/57170][breakdown]]. We make the simple assumption that the burden of non-income taxes (e.g. payroll, capital gains, corporate) are passed on to individuals proportionally to their income. The last row considers the estimated [[https://fortune.com/2021/07/30/jeff-bezos-net-worth-amazon-stock-amzn-earnings-update/][net worth]] of Jeff Bezos as of July 2021. All amounts are shown as thousand USD annually.
+|-------+--------+-------------+-----------+-----------|
+|     % | [[https://dqydj.com/average-median-top-household-income-percentiles/][Income]] |      [[https://dqydj.com/average-median-top-net-worth-percentiles/][Wealth]] |  Current* |       UCT |
+|-------+--------+-------------+-----------+-----------|
+|     5 |     10 |         -18 |         0 |         0 |
+|    25 |     34 |          12 |         5 |         0 |
+|-------+--------+-------------+-----------+-----------|
+|    50 |     68 |         121 |        17 |         3 |
+|-------+--------+-------------+-----------+-----------|
+|    75 |    122 |         403 |        42 |        11 |
+|    95 |    270 |       2,584 |       138 |        71 |
+|    99 |    531 |      11,099 |       332 |       305 |
+|-------+--------+-------------+-----------+-----------|
+| Bezos |     82 | 198,000,000 | *Unclear* | 5,460,000 |
+|-------+--------+-------------+-----------+-----------|
+
+The primary impact of UCT is to more fairly redistribute the tax burden along the socioeconomic spectrum.
+Table\nbsp[[tab:distribution]] compares the tax burden under the existing system against the hypothetical tax burden under UCT.
+Based on these rough estimates UTC lowers the tax burden of the bottom 99% of US households.
+By implication, the difference shifts to the remaining 1%.
+Perhaps the most illustrative number is the tax burden of the median household, which reduces to only 17% of the burden under the current system.
+
+This analysis may overstate the scale of UCT for the following reasons:
+
+- The tax burden decreases the value of assets.
+- Comprehensive asset tracking may be expensive.
+- Some individuals will move some assets off-shore.
+- If implemented, UBI and UBP would increase the state's spending, which would require a higher UCT tax rate to compensate.
+
+Conversely, this analysis may understate the scale of UCT for the following reasons:
+
+- Since UCT allows for the removal of all other taxes, the value of assets would increase. For instance, stocks would gain value because the underlying corporation, which no longer has to account for payroll, income, or sales taxes, would be more profitable.
+- Tracking assets may be less expensive and more comprehensive than accounting and auditing under the current system.
+- If Ubitarian policies are as effective as they promise to be, then they should increase the wealth of the country overall, leading to a larger tax base.
+
+* Universal Information Freedom
+:PROPERTIES:
+:CUSTOM_ID: uif
+:END:
+
+/Universal Information Freedom/ (UIF) is a state policy which states that the sharing of information cannot be legally restricted in any way for purely financial reasons.
+Applied to current US system, UIF entails the removal of all patent law, copyright law, trade secret protections, and restrictions against insider trading.
+The result is that anyone would have the right to use, reproduce, and build upon any technology, work of art, or market information without any legal consequence.
+
+/The purpose of UIF is to democratize culture influence and collaboratively propogate information in a way that will benefit everyone in society./
+
+** Rationale
+The core rationale of UIF is as follows:
+
+- /Premise/: Physical goods are naturally scarce. The concept of physical property makes it easier to equitably and efficiently distribute physical goods.
+- /Premise/: Information is naturally abundant. The concept of intellectual property makes it harder to equitably and efficiently distribute information.
+- /Conclusion/: Intellectual property is an unnatural and unnecessary degenerate capitalistic construct.
+
+Although this is the primary motivation, it is not the only one.
+The remainder of this section outlines benefits of UIF in specific topics.
+
+*** Technology
+The dissolution of patent and trade secret protection most directly impacts technological research and development.
+Today, there are two primary justifications for these laws:
+
+- /Ethical/: Individuals have a right to profit from an invention if they conceptualize it first.
+- /Practical/: Patent and trade secrets are beneficial for society because they are necessary to encourage technological progress.
+
+Ubitarianism rejects the ownership of inventions as an unsubstantiated social construct.
+While it may be ethical to give proper credit to inventors, there is no natural reason to provide them with exclusive rights when all inventions depend on other inventions.
+The practical justification is an inefficient and convoluted way to achieve the desired benefit.
+The most straightforward way to encourage technical progress is for the state to simply pay a fixed rewards new inventions so that it can be immediately put into production by anyone.
+UBP would be a viable method to allocate funding for these rewards.
+For instance, the state might set up a nonprofit which offers a substantial UBP-funded reward to the first private company that invents---and publishes---a cure for some specific disease.
+
+UIF (combined with UBP incentives for inventors) provides the following benefits:
+
+- /Prioritization/: Democratic funding produces technology, especially medicine, that prioritizes public need over profitability.
+- /Proliferation/: Once an invention is made public, then other inventors can more quickly build off of it to produce better inventions.
+- /Ethics/: Businesses do not have to make ethical decision about how much to arbitrarily inflate the cost of life-or-death technology.
+- /Motivation/: UIF facilitates more intrinsic, altruistic motivation for researcher since they would be assured that their work unilaterally benefits the public.
+- /Efficiency/: UIF eliminates legal fees associated with the maintenance and protection of patents and trade secrets.
+
+*** Art
+The dissolution of copyright law most directly impacts art and culture.
+The term "art" in this section refers to any creative bundle of information which could include the image on a painting, the notes of a song, the bytes that encode a blockbuster film, the software of a video game, or the words of a novel.
+It does not refer to the physical objects that contain this information such as a canvas, computer, or a hardcover book.
+Today, there are two primary justifications for copyright law:
+
+- /Ethical/: Artists have a right to profit from their art if they are the ones who created it.
+- /Practical/: Patents are beneficial for society because they are necessary to encourage artistic creation.
+
+Ubitarianism rejects the ownership of art as an unsubstantiated social construct.
+While it may be ethical to give proper credit to artists, there is no natural reason to provide them with exclusive rights when all art draws inspiration from other art.
+On the practical side, copyright is an inefficient and convoluted way to promote art. 
+If the state wants to facilitate higher artistic creation, it should begin by covering living expenses for artists.
+UBI is the most comprehensive way to accomplish this goal.
+If the state wants to fund larger projects and reward highly influential artists, then it should directly reward them with money in exchange for their public creation. 
+UBP is the most effective way to accomplish this goal.
+Finally, artists have other ways to earn money that do not require the state to artificially restrict the proliferation of creative works.
+
+- The [[https://link.springer.com/content/pdf/10.1007/s10824-020-09381-5.pdf][success]] of platforms like GoFundMe and Patreon indicate that individuals are willing to subsidize artists directly.
+- Financial [[https://www.digitalmusicnews.com/2017/07/17/artists-touring-revenue/][data]] from the music industry indicates that musicians profit more from touring with their physical presence than licensing their music on streaming sites.
+- Since artists always have control of future art that they make, the businesses that profit from distributing the art will have an incentive to pay them advances to continue to produce work.
+
+UIF (combined with UBI and UBP incentives for artists) provides the following benefits:
+
+- /Localization/: By removing the legal mechanisms that artificially prop up large entertainment conglomerates, UIF creates more space for /local/ forms for art.
+- /Diversity/: By removing the legal mechanisms that artificially prop up modern /homogeneous/ entertainment conglomerates, UIF creates more space for /diverse/ forms of art.
+- /Collaboration/: UIF removes legal barriers to artistic collaboration and inspiration, a development especially benefits genres like music sampling, pop art, and fan-fiction.
+- /Accessiblility/: UIF increases the proliferation of art making the cultural education and enrichment that comes with it accessible to everyone for free.
+- /Virtuousness/: Under UIF, the creation of art is driven by artistic motivation and less by economic incentives[fn:coase]. The result is that dehumanizing and addictive media like pornography and video games would be less profitable.
+- /Efficiency/: UIF eliminates legal fees associated with the maintenance and protection of copyright.
+
+*** Markets
+The dissolution of insider trading laws most directly impacts financial markets.
+Today, the justification is practical: proponents believe that we need to create an even playing field in financial markets in order to protect small outsider traders.
+UIF claims that this justification reflects an outdated, fanciful view of entrepreneurship which ignores the reality that these laws overwhelmingly benefit large corporations and law firms.
+
+UIF provides the following benefits:
+
+- /Proliferation/: Removing insider trading laws allows markets to do what they do best: quickly propagate economic information at scale. The price of shares more quickly alerts the public to scandals, technological breakthroughs, and sales results that reflect the true value of a company.
+- /Transparency/: Even with insider trading laws, outsider traders (e.g. amateur day-traders) are already at a disadvantage. UIF removes the pretense of fairness.
+- /Efficiency/: UIF eliminates legal fees associated with the maintenance and protection of insider trading law.
+
+** Scale
+This section quantifies the potential impact of UIF for the US.
+The removal of patent and trade secret law would most directly affect private research & development, which the National Science Foundation [[https://ncses.nsf.gov/pubs/nsf21324][estimated]] to be $486 billion in 2019.
+The removal of copyright law would most directly affect the creative arts industries, which we estimate to be $552 billion in Table\nbsp[[tab:creative]].
+Finally, the removal of insider trading laws would affect all publicly traded stocks, which one source [[https://siblisresearch.com/data/us-stock-market-value/][estimated]] to be $48 trillion in 2021.
+
+#+name: tab:creative
+#+CAPTION: *Revenue of Creative Industries.* All data is US-only except licensed merchandise, which includes both US and Canadian revenue. Revenue amounts are shown as billion USD annually.
+|----------------------+------+---------|
+|                      | Year | Revenue |
+|----------------------+------+---------|
+| [[https://www.americansforthearts.org/sites/default/files/aep5/PDF_Files/NationalFindings_StatisticalReport.pdf][Nonprofit Arts]]       | 2017 |     166 |
+| [[https://www.hollywoodreporter.com/business/business-news/licensed-merchandise-sales-hit-2517b-903029/][Licensed Merchandise]] | 2015 |     146 |
+| [[https://www.selectusa.gov/media-entertainment-industry-united-states][Television]]           | 2019 |      91 |
+| [[https://www.selectusa.gov/media-entertainment-industry-united-states][Book]]                 | 2018 |      38 |
+| [[https://www.selectusa.gov/media-entertainment-industry-united-states][Video Games]]          | 2019 |      26 |
+| [[https://www.nexttv.com/news/us-digital-video-revenue-surpassed-dollar265-billion-in-2020-deg-says][Video Streaming]]      | 2020 |      26 |
+| [[https://www.selectusa.gov/media-entertainment-industry-united-states][Music]]                | 2019 |      22 |
+| [[https://qz.com/1309527/porn-could-have-a-bigger-economic-influence-on-the-us-than-netflix/][Pornography]]          | 2018 |      15 |
+| [[https://www.selectusa.gov/media-entertainment-industry-united-states][Cinema]]               | 2019 |      11 |
+| [[https://apnews.com/article/newspapers-business-arts-and-entertainment-ecdff2581db22fa4c627c8bfd8b48eef][Newspaper]]            | 2020 |      11 |
+|----------------------+------+---------|
+| Total                |      |     552 |
+|----------------------+------+---------|
+#+TBLFM: @>$3=vsum(@2..@-1)
+
+This analysis may overstate the scale of UIF for the following reasons:
+
+- Patents only motivate some of the investment into research & development. Even without patent law, companies would lstill compete to bring new products to the market.
+- Copyright only accounts for some of the value in the creative arts industry. Access to digital platforms, in-person ticket sales, and other sales accounts for much of this revenue.
+
+Conversely, this analysis may understate the scale of UIF for the following reasons:
+
+- Not all research dollars are created equal. Private research & development investments may not be as beneficial for the public as public investments since they are more motivated by profit than public benefit. If the state supplements the loss in private investment with an equivalent public investment, then the net benefit should result in more prosocial technological progress.
+- Not all artistic dollars are created equal. The economic value of creative art does not fully quantify its social value. If the state supplements the loss in private creative arts with an equivalent public investment, then society would benefit by producing more small-scale, culturally-motivated art and fewer blockbuster movies, addictive video games, and pornography.
+- Table\nbsp[[tab:creative]] only accounts for some industries that directly benefit from copyright law; there are many others which indirectly benefit.
+
+* Supplementary Policies
+:PROPERTIES:
+:CUSTOM_ID: other-policies
+:END:
+
+This appendix lists assorted secondary policies that complement the four core policies of the Ubitarianism platform.
+They aim to address one-off issues that are not covered by the core platform.
+Many of them are well-established in the political discourse, but none have been implemented at scale.
+
+** Pigouvian Taxation
+/Pigouvian Tax/ is a tax on a negative externality created by an entity that is proportional to the social damage caused by the entity.
+The quintessential---and perhaps most important---example is a carbon tax on entities that produce greenhouse gases.
+The purpose of this policy is take precisely the most direct action to limit externalities.
+
+** Ranked Choice Voting
+/Ranked Choice Voting/ is an election system where voters rank candidates according to relative preferences.
+The purpose of this policy is to encourage a less divisive, non-partisan political landscape.
+
+** Immigration Tax
+/Immigration Tax/ is a tax levied on new citizens of a country that is enforced for some period of time after they receive their citizenship.
+The purpose of this policy is to control the flow of immigration in the most fair way.
+
+** Limited Legislation
+/Limited Legislation/ is a mechanism to limit the length of allowable legislation over some period of time as measured by word count.
+The purpose of this policy is to directly limit the complexity of all legislative policy.
+
+** One Child, One Vote
+/One Child, One Vote/ is a policy which allows guardians of minors to allocate an extra vote during all democratic elections.
+The purpose of this policy is to address the under-representation of families in representative government. 
+
+* Discussion
+:PROPERTIES:
+:CUSTOM_ID: discussion
+:END:
+
+This section provides closing discussion to elaborate on the place of Ubitarianism relative to competing ideologies and to the existing establishment.
+
+** Other Ideologies
+Ubitarianism has the following commonalities and differences with other popular ideologies.
+
+*** Socialism
+Socialism is an ideology that an advocates for the public sector to control the production, distribution, and exchange of economic goods.
+Like Ubitarianism, it recognizes a strong need for more economic equality, better social safety nets, and increased public spending.
+However, most Socialist policies like /Medicare for All/ and /The Green New Deal/ conflict with Ubitarian minimalism.
+Ubitarianism opposes these complex authoritarian policies in favor of more free-market policies like UBI, UBP, and carbon taxing.
+Furthermore, far-left policies like racial reparations and higher taxes for the wealthy are unnecessarily divisive and interventionalist.
+UCT achieves enough of the same benefits under a more fair and logical framework.
+
+*** Libertarianism
+Libertarianism is an ideology that seeks to maximize personal choice by removing all but the most strictly necessary government interventions.
+Like Ubitarianism, it aims to increase the role of free markets and decrease the role of centralized decision-making.
+However, Ubitarianism rejects the Libertarian hypothesis that society will thrive if the state does nothing at all.
+Naive Laissez-faire policy does /not/ lead to optimal market conditions.
+UBI is needed to create a truly free labor market and UBP is needed to create a well-functioning market for public goods.
+Taxation through UCT is /not/ theft because private property would be impossible without the state.
+
+*** Moderatism
+Moderatism is an ideology that avoids extreme left or right positions in favor of pragmatic compromises that satisfy both sides.
+Like Ubitarianism, it lies roughly in the middle of the left/right economic spectrum by definition.
+However, Ubitarianism rejects the moderatist assumption that incremental policies are inherently beneficial.
+Centuries of moderate compromises are precisely the cause of the complexity, inconsistency, and bloat of the modern state.
+Consequently, Ubitarianism maintains principled and uncompromising views on all issues.
+
+** Path Forward
+Although the Ubitarian platform may seem radical and far-fetched, the policies are surprisingly easy to implement.
+By design, each of the four core policies and most of the supplementary policies are /tunable/---they can be implemented fully or partially by adjusting financial numbers.
+The main logistical challenge is to set up the infrastructure:
+
+- A money distribution system for UBI,
+- A money distribution system and nonprofit vetting system for UBP
+- An asset tax collection system for UCT
+
+Once in place, policy-makers can gradually increase the following parameters:
+
+- The amount of money in the UBI payout
+- The amount of money in the UBP payout
+- The tax percentage of UCT
+- The time to phase out patent and copyright protections for UIF
+
+This transitional tuning allows policy-makers to stress-test the system and monitor the effects on the economy.
+In this way, society can transition to a Ubitarian state as quickly or as slowly as it needs to.
+  
+** Challenges
+The two main barriers to adoption are /infrastructure/ and /ethos/.
+Ubitarian policies require a level of technical and organizational sophistication that is within reach of modern society.
+From an organizational standpoint, the state would need to establish legislation and executive agencies to facilitate the large-scale financial movement prescribed by Ubitarian policy.
+From a technological standpoint, Ubitarian policies would benefit from advances in information[fn:semantic-web], financial[fn:bitcoin] and identification systems[fn:ssi].
+These systems should be secure, confidential, and efficient.
+
+The more difficult challenge is ethos.
+Perhaps the greatest achievement of modern society is to establish within its people a precious handful of shared beliefs like the value of human life, equal representation, freedom of speech, and the rule of law.
+Although people still quarrel over the precise implications of these values, most people do not seriously question their legitimacy. 
+The most important challenge for Ubitarianism is to add the following two new principles to the American ethos:
+
+- /Self-Determination/: Society /must/ believe that all people have a natural desire to be productive members of their community
+- /Minimalism/: Society /must/ believe that complexity (not necessarily money) is the root of all systemic evil
+
+If society someday embraces these principles, it will also embrace the logic that these principles entail.
+
+** Conclusion
+:PROPERTIES:
+:CUSTOM_ID: conclusion
+:END:
+
+Through two principles and four core policies, the Ubitarian Manifesto provides a cohesive plan for the future of society---not how it will or even should be; only how it /can/ be.
+A plan is all we need to get started.
+Person by person, conversation by conversation, vote by vote, society always moves forward.
+The situation is suboptimal---now is the perfect time to start moving.
+
+#+LATEX: \bibliographystyle{abbrv}
+#+LATEX: \bibliography{references.bib}
+
+* Footnotes
+[fn:humankind] /Humankind/ is a book that describes the basic decency of the human species and cultural need to move toward a more positive outlook of humanity[[cite:bregman2020humankind]].
+[fn:development-as-freedom] /Development as Freedom/ is a book that argues for the active creation of personal freedoms as the goal for developing states\nbsp[[cite:sen2014development]].
+[fn:the-alternative] /The Alternative/ is a book that addresses erosion of self-determination and pride that is resulting from the current divisize nature of charitable institutions\nbsp[[cite:miller2017alternative]]
+[fn:self-determination] Self-determination is also a well-studied macro psychological theory\nbsp[[cite:deci2008self]].
+[fn:decolonizing-wealth] /Decolonizing Wealth/ is a book that addresses the cultural and economic inequities of traditional philanthropy\nbsp[[cite:villanueva2021decolonizing]].
+[fn:sympathy] In a seminal paper "Sympathy and callousness", researchers suggest that emotional anecdotes are more powerful than logical statistics for procuring charitable donations\nbsp[[cite:small2007sympathy]]
+[fn:coase] The landmark paper known as "Coase's Penguin" elaborates on the phenomenon of open-sourced software and other forms of crowd-sourcing that defy simplistic economic logic\nbsp[[cite:benkler2002coase]]
+[fn:man-economy-state] /Man, Economy, and State/ is a seminal work of Libertarian ideology that explains the merits of the free market\nbsp[[cite:rothbard2004man]].
+[fn:replicability] A seminal meta-study published in 2015 drew attention to an ongoing problem with scientific research\nbsp[[cite:open2015estimating]].
+[fn:semantic-web] The Semantic Web is a growing technology that aims to improve the sharing of semantically meaningful statements of truth on the Internet\nbsp[[cite:berners2001semantic]].
+[fn:bitcoin] Blockchain technology like Bitcoin aims to improve accessibility, security, and transparency of digital finance\nbsp[[cite:nakamoto2008bitcoin]].
+[fn:ssi] Self-Sovereign Identity is a growing movement to decentralize control of digital identification information\nbsp[[cite:allen2016path]].
