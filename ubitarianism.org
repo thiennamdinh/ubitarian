@@ -1,16 +1,16 @@
 #+TITLE: The Ubitarian Manifesto
 #+AUTHOR: Thien-Nam Dinh
-#+DATE: December 04, 2021
+#+DATE: December 05, 2021
 #+OPTIONS: toc:nil title:nil
 #+LATEX_CLASS: custom
 #+LATEX_HEADER: \email{thiennam.tnd@gmail.com}
 
 #+BEGIN_abstract
-I have no external motives or qualifications to write manifestos.
-For some reason, I wrote this one.
-Some of its ideas may be original.
-Most are not.
-The forming of ideas is a mundane and tedious chore.
+I am not qualified to write manifestos.
+I wrote this one.
+Some of the ideas in this manifesto are new.
+Some are not.
+The creation of ideas is an unremarkable process.
 The exchange of ideas is the most beautiful process in the universe.
 #+END_abstract
 
@@ -142,7 +142,7 @@ For individuals who face extenuating circumstances like disability or drug addic
 
 UBI has the following benefits:
 - /Efficiency/: Cash payouts require less logistical overhead for the state than targeted housing assistance, food stamps, and medical insurance.
-- /Transparency/: Cash payouts have less need for centralized management, which in turn leaves less room for corrupt or negligent behavior by state officials.
+- /Transparency/: Cash payouts have less need for top-down management, which in turn leaves less room for corrupt or negligent behavior by state officials.
 - /Flexibility/: Individuals have a more nuanced understanding of their own needs than the state. An unrestricted cash payout has more value to individuals than an equivalent amount of restricted state services.
 - /Incentivization/: UBI eliminates the perverse economic incentives of the current welfare state, which creates poverty traps that implicitly encourage the poor to stay poor[fn:the-alternative].
 - /Solidarity/: UBI reduces the social stigma that exist in the current system. Since the state provides UBI to all citizens, it does not create unnecessary class divisions.
@@ -213,8 +213,8 @@ Programs that do not qualify include private for-profit businesses, organization
 The core rationale of UBP is as follows:
 
 - /Premise/: People have a natural desire to engage in philanthropy, public service, and politics. 
-- /Premise/: At large scales, well-maintained free market systems are more efficient and robust than centralized, bureaucratic institutions.
-- /Conclusion/: UBP, which is a free market for philanthropy, public service, and politics, will be more efficient and robust than the centralized institutions that currently meet these needs.
+- /Premise/: At large scales, well-maintained free market systems are more efficient and robust than top-down, bureaucratic institutions.
+- /Conclusion/: UBP, which is a free market for philanthropy, public service, and politics, will be more efficient and robust than the top-down institutions that currently meet these needs.
 
 *** Philanthropy
 :PROPERTIES:
@@ -228,21 +228,21 @@ UBI provides the following benefits:
 
 - /Equity/: UBP allows all citizens to participate in philanthropic giving, an activity that is intrinsically rooted in privilege and affluence in the current system. It obviates the need for a charitable tax deduction, a mechanism that currently amplifies the equities in philanthropy[fn:decolonizing-wealth].
 - /Deliberation/: Impulsivity drives much of traditional philanthropy. Today, many people donate when they are emotionally perturbed, for instance, at a social charity gala or after a moving advertisement. Without these perturbations, it is more rational to keep the money for themselves. Since UBP can /only/ be donated, people are able to more deliberately and rationally their donations.
-- /Outreach/: UBP encourages nonprofits to shift outreach and education efforts toward the general public and away from the major donors and centralized institutions that fund them today.
+- /Outreach/: UBP encourages nonprofits to shift outreach and education efforts toward the general public and away from the major donors and top-down institutions that fund them today.
 
 *** Governance
 :PROPERTIES:
 :CUSTOM_ID: governance
 :END:
 
-UBP displaces bureaucracy by replacing centralized funding with grassroots funding.
+UBP displaces bureaucracy by replacing top-down funding with grassroots funding.
 This change impacts public programs like medicaid, housing, SNAP benefits and funding for parks, libraries, law enforcement, and infrastructure.
 
 UBI provides all of the benefits mentioned in Section\nbsp[[#philanthropy]] for governance as well as the following additional benefits:
 
 - /Efficiency/: A decentralized UBP platform replaces the need for inefficient and hierarchical bureaucratic decision-making.
-- /Selection/: Grassroots organizations form more easily than centralized organizations, which means that individuals have a wider selection of organizations to support with public dollars. 
-- /Diversity/: Grassroots organizations are more supportive of innovation, minority populations, and controversial issues than centralized government agencies.
+- /Selection/: Grassroots organizations form more easily than top-down organizations, which means that individuals have a wider selection of organizations to support with public dollars. 
+- /Diversity/: Grassroots organizations are more supportive of innovation, minority populations, and controversial issues than top-down government agencies.
 - /Democracy/: UBP is a more direct way to exercise democratic power than representative government. Instead of depending on elected officials, UBP enables citizens to exercise financial power directly and immediately.
 
 *** Activism
@@ -521,22 +521,27 @@ None have been implemented at scale.
 /Pigouvian Tax/ is a tax on a negative externality created by an entity that is proportional to the social damage caused by the entity.
 The quintessential---and perhaps most important---example is a carbon tax on entities that produce greenhouse gases.
 The purpose of this policy is take precisely the most direct action to limit externalities.
+It obviates top-down, adhoc mechanisms like green energy subsidies and regulations.
 
 ** Ranked Choice Voting
 /Ranked Choice Voting/ is an election system where voters rank candidates according to relative preferences.
-The purpose of this policy is to encourage a less divisive, non-partisan political landscape.
+The purpose of this policy is to encourage---using mathematically provable game-theory---a less divisive, non-partisan political landscape consisting of many different political parties.
+It replaces the standard run-off election system that naturally gravitates toward contentious two-party politics.
 
 ** Immigration Tax
 /Immigration Tax/ is a tax levied on new citizens of a country that is enforced for some period of time after they receive their citizenship.
 The purpose of this policy is to control the flow of immigration in the most fair way.
+It improves the current immigration policy which stifles legal immigration and rewards illegal immigration.
 
 ** Limited Legislation
 /Limited Legislation/ is a mechanism to limit the length of allowable legislation over some period of time as measured by word count.
-The purpose of this policy is to directly limit the complexity of all legislative policy.
+The purpose of this policy is to directly limit the complexity of legislative policy.
+It counteracts the natural incentives in representative government for politicians to further their own careers by adding to legislative bloat.
 
 ** One Child, One Vote
 /One Child, One Vote/ is a policy which allows guardians of minors to allocate an extra vote during all democratic elections.
-The purpose of this policy is to address the under-representation of families in representative government. 
+The purpose of this policy is to correct the under-representation of children and families in government policy.
+It forces the state to more accurately consider the needs of the next generation in both immediate governance as well as long-term policy-making.
 
 * Discussion
 :PROPERTIES:
@@ -558,7 +563,7 @@ UCT achieves much of the same benefits under a more fair and logical framework.
 
 *** Libertarianism
 Libertarianism is an ideology that seeks to maximize personal choice by removing all but the most strictly necessary government interventions.
-Like Ubitarianism, it aims to increase the role of free markets and decrease the role of centralized decision-making.
+Like Ubitarianism, it aims to increase the role of free markets and decrease the role of top-down decision-making.
 However, Ubitarianism rejects the Libertarian hypothesis that society will thrive if the state does nothing at all.
 Naive Laissez-faire policy does /not/ lead to optimal market conditions.
 UBI is needed to create a truly free labor market and UBP is needed to create a well-functioning market for public goods.

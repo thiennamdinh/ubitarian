@@ -117,7 +117,7 @@
   \gdef\@date{{\itshape#1}}}
 \def\@date{\CJ@warn{No accepted date}}
 \newbox\absbox
-\def\abstract{\lrbox\absbox\minipage{.7\textwidth}%
+\def\abstract{\lrbox\absbox\minipage{.6\textwidth}%
   \hrule\@height.2pt
   \medskip
   \normalfont\small
